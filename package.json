@@ -1,8 +1,8 @@
 {
-  "name": "show-configurator2",
-  "productName": "Show Configurator",
-  "version": "1.0.1",
-  "description": "add show info to R6",
+  "name": "New Theater Control",
+  "productName": "Theater Dontrol",
+  "version": "0.1",
+  "description": "acontrol theater devices",
   "main": "main.js",
   "scripts": {
     "start": "electron-forge start",
